@@ -1,7 +1,7 @@
 # Neural-Style-Transfer
 Implementation of a Neural Style Transferring Model in tensorflow.
 -------------------------------------------------------------------
-author:m.mahyar.ali  ----April 22,2020
+author:m.mahyar.ali   ----April 22,2020
 
 Requirements:-
 - python 3.x
